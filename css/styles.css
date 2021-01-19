@@ -22,3 +22,8 @@
 .box:hover {
   background-color: #dbfaff;
 }
+
+.btn {
+  background-color: grey;
+  margin: 5px;
+}
