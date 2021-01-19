@@ -13,7 +13,7 @@ A deck of "flash cards" for Javascript and programming terms, using many of them
 * Open flashcards-2/index.html in your browser.
 
 ## Known Bugs
-* When you click the term, the "card" should reveal the definition. It doesn't yet.
+The form prompting user to enter new terms does not work yet. The UI also needs work.
 
 ## License
 [MIT](https://opensource.org/licenses/MIT)
