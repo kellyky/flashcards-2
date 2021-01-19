@@ -16,6 +16,14 @@
     $("#operators-definition").toggle();
     $("#operators-term").toggle();
   });
+  $("#variables-term").click(function() {
+    $("#variables-definition").toggle();
+    $("#variables-term").toggle();
+  });
+  $("#variables-definition").click(function() {
+    $("#variables-definition").toggle();
+    $("#variables-term").toggle();
+  });
  });
 
 
