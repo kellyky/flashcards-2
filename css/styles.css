@@ -1,0 +1,21 @@
+.definition {
+  display: none;
+
+}
+
+.term {
+  height: 80px;
+  /* width: 160 px; */
+  border: 1px solid grey;
+  display: flex;
+  justify-content: center;
+  padding: 15px;
+  font-size: 150%;
+  margin: 0 auto;
+}
+
+.box {
+  width: 360px;
+  /* margin: 0 auto; */
+  padding: 15px;
+}
