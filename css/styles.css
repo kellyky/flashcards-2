@@ -4,18 +4,21 @@
 }
 
 .term {
-  height: 80px;
-  /* width: 160 px; */
-  border: 1px solid grey;
+  height: 100px;
   display: flex;
   justify-content: center;
-  padding: 15px;
+  padding: 25px;
   font-size: 150%;
   margin: 0 auto;
 }
 
 .box {
-  width: 360px;
-  /* margin: 0 auto; */
+  width: 400px;
   padding: 15px;
+  border: 1px solid grey;
+  margin: 15px;
+}
+
+.box:hover {
+  background-color: #dbfaff;
 }
